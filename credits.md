@@ -4,9 +4,9 @@ Credits for the footage, photos and music in the video. The sources for its clai
 
 ## News footage
 
-- AP Archive <https://www.youtube.com/watch?v=NhmAsCh8B88 (4-12 s)>
-- Intel <https://www.youtube.com/watch?v=WVLGKq9An28 (5-16 s)>
-- Linus Tech Tips (2010 video "NVIDIA GeForce GTX 580 & SLI MSI & EVGA Graphics Card Video Review") <https://www.youtube.com/watch?v=FEZRaOddTw4 (10-20 s of 620 s)>
+- AP Archive <https://www.youtube.com/watch?v=NhmAsCh8B88>
+- Intel <https://www.youtube.com/watch?v=WVLGKq9An28>
+- Linus Tech Tips (2010 video "NVIDIA GeForce GTX 580 & SLI MSI & EVGA Graphics Card Video Review") <https://www.youtube.com/watch?v=FEZRaOddTw4>
 - Mixkit (contributor per the Mixkit page) <https://mixkit.co/free-stock-video/statue-and-cannons-outside-the-white-house-22786/>
 - Mixkit (contributor per the Mixkit page) <https://mixkit.co/free-stock-video/high-tech-circuit-board-with-processor-47051/>
 - Mixkit (contributor per the Mixkit page) <https://mixkit.co/free-stock-video/robot-working-in-an-electronics-manufacturing-facility-47258/>
@@ -20,22 +20,22 @@ Credits for the footage, photos and music in the video. The sources for its clai
 - Mixkit (contributor per the Mixkit page) <https://mixkit.co/free-stock-video/futuristic-shenzhen-skyscrapers-at-night-30120/>
 - Mixkit (contributor per the Mixkit page) <https://mixkit.co/free-stock-video/shenzhen-container-port-terminal-31027/>
 - Mixkit (contributor per the Mixkit page) <https://mixkit.co/free-stock-video/shenzhen-central-business-district-31050/>
-- Universal-International News via BestDomainVidz <https://www.youtube.com/watch?v=tJoeaU3Vs0M (0-10 s)>
+- Universal-International News via BestDomainVidz <https://www.youtube.com/watch?v=tJoeaU3Vs0M>
 - Al Jazeera; Associated Press; The New York Times
 - Donald Trump, Oval Office signing <https://www.youtube.com/watch?v=IQ3U5ynj494>
 - Donald Trump, CNBC phone interview, Nov 23 2026 (CNBC excerpt) <https://www.cnbc.com/video/2026/11/23/president-trump-ai-convinceda-nvidia-board-to-reinstate-jensen-huang.html>
 - Jensen Huang <https://www.youtube.com/watch?v=pE6sw_E9Gh0&t=4282s>
-- Colette Kress (NOT the chairman), Nov 17 call <https://www.youtube.com/watch?v=XjdqKUf5cUk>
+- Colette Kress, Nvidia earnings call, Nov 17 2026 <https://www.youtube.com/watch?v=XjdqKUf5cUk>
 - Jensen Huang <https://www.youtube.com/watch?v=unawbXKdSZI>
-- KiniTV; translation: The New York Times via CSM <(see source asset opt_zuck_kinitv_clip)>
+- KiniTV; translation: The New York Times via CSM <https://www.youtube.com/watch?v=HTmHtOSqHTk>
 - Dario Amodei (Trump and Zuckerberg beside him, Speaker Johnson right) <https://www.youtube.com/watch?v=D8lDoI4yLLA>
-- Guo Jiakun, PRC MFA spokesperson (ShanghaiEye); translation: PRC MFA <(see source asset c2_tape_avm_guo_jiakun_chinese_spy_allegation_smear_zh (E's x1.25 FF variant))>
+- Guo Jiakun, PRC MFA spokesperson (ShanghaiEye); translation: PRC MFA <https://www.youtube.com/watch?v=DaYiX6bwKPc>
 - Rob Bonta, California Attorney General <https://www.cnbc.com/video/2026/11/24/california-attorney-general-bonta-on-nvidia-investigation-this-is-not-about-jensen-huang-personally.html>
 - Dario Amodei, Bloomberg House Davos (John Micklethwait) <https://www.youtube.com/watch?v=NJinI8SDf3M>
 - Satya Nadella (BG2 with Brad Gerstner and Sam Altman) <https://www.youtube.com/watch?v=Gnl833wXRz0>
 - Colette Kress <https://www.youtube.com/watch?v=FsW4QmeIaIE>
 - Margaret Thatcher outside No. 10 <https://www.youtube.com/watch?v=STJ7o-JsQCk>
-- Guo Jiakun, PRC MFA spokesperson (AP Archive); translation: PRC MFA <(see source asset c2_tape_np2_guo_jiakun_refer_to_competent_authorities_zh)>
+- Guo Jiakun, PRC MFA spokesperson (AP Archive); translation: PRC MFA <https://www.youtube.com/watch?v=hiHRU-QQ-Ds>
 - Lisa Su <https://www.youtube.com/watch?v=BrKar_3wZ7Q>
 - CNBC, Mad Money <https://www.cnbc.com/video/2026/11/17/watch-jim-cramers-full-interview-with-nvidia-interim-ceo-colette-kress.html>
 - Better Offline (Ed Zitron), https://www.youtube.com/watch?v=8p7A8EV5NNA
@@ -60,7 +60,7 @@ Credits for the footage, photos and music in the video. The sources for its clai
 - Xiaomanyc 小马在纽约 <https://www.youtube.com/watch?v=njn6krU3tQ8>
 - Dronespeare <https://www.youtube.com/watch?v=DKOeuLcfNYA>
 - House Judiciary antitrust hearing, C-SPAN feed (re-upload by Jaden Jefferson Reports) <https://www.youtube.com/watch?v=E7OmpG9m7DU>
-- NewsNation, ABC7, NBC News, CNBC (as above) <(assembled from the six xdj_ clips above)>
+- NewsNation, ABC7, NBC News, CNBC (as above)
 - Mark Zuckerberg, Facebook Live Q&A (re-upload by Hamid Fathi; original 2016-06-14) <https://www.youtube.com/watch?v=MtMIvu5zaRU>
 - Formosa English News, 'Nvidia CEO Jensen Huang delivers keynote in Taipei', https://www.youtube.com/watch?v=svzGfunMSs0
 - Video: abir (@aburducky) on X <https://x.com/aburducky/status/2124924846266277988>
@@ -78,14 +78,14 @@ Credits for the footage, photos and music in the video. The sources for its clai
 
 ## Footage
 
-- NASA / JSC (via The Apollo 11 Facts Project) <https://commons.wikimedia.org/wiki/File:Flight_of_AS-506_(Apollo_11)_from_lift-off_to_1_min_after_S-IC_stage_separation,_VJSC_1425D-q1.ogv (0-10 s)>
+- NASA / JSC (via The Apollo 11 Facts Project) <https://commons.wikimedia.org/wiki/File:Flight_of_AS-506_(Apollo_11)_from_lift-off_to_1_min_after_S-IC_stage_separation,_VJSC_1425D-q1.ogv>
 - Nvidia H100 photo: Geekerwan (极客湾), CC BY 3.0, via Wikimedia Commons
 - Data: Epoch AI, AI Chip Imports explorer, CC BY 4.0
 
 ## News photos
 
-- AFP News Agency <https://www.youtube.com/watch?v=P7e1hExmFsY (7-14 s of 72 s)>
-- Reuters <https://www.youtube.com/watch?v=gdw1ZYzSxLM (0-10 s of 44 s)>
+- AFP News Agency <https://www.youtube.com/watch?v=P7e1hExmFsY>
+- Reuters <https://www.youtube.com/watch?v=gdw1ZYzSxLM>
 - dawn <https://www.dawn.com/news/1888233>
 - ksl <https://www.ksl.com/article/51489215/china-orders-meta-to-unwind-2b-purchase-of-ai-startup-manus>
 - Reuters via KSL (lead image is a Meta sign) <https://www.ksl.com/article/51489215/china-orders-meta-to-unwind-2b-purchase-of-ai-startup-manus>
@@ -205,6 +205,10 @@ Credits for the footage, photos and music in the video. The sources for its clai
 - unknown (KYM gallery, 2020); caption cropped <https://knowyourmeme.com/memes/2020-stock-market-crash>
 - MEGA Agency photo (published by the New York Post), via Know Your Meme gallery <https://knowyourmeme.com/memes/white-sunscreen-face-mark-zuckerberg>
 - unknown (Reddit origin 2022-01-18 per KYM), https://knowyourmeme.com/memes/thing-china
+
+## Video thumbnails
+
+- Thumbnail: Jensen Huang photo by Anders Eidesvik, CC BY 4.0, via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_005.jpg
 
 ## Other
 
