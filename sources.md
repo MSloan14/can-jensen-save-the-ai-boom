@@ -294,6 +294,7 @@ Credits for the footage, photos and music are on the [credits](credits.md) page.
 - Yahoo Finance (First for Money republish), Nov 17, 2026, relaying the NYT of Nov 16, 2026 <https://finance.yahoo.com/technology/articles/former-nvidia-ceo-jensen-huang-212812211.html>
 - NBC News, Nov 23, 2026 (and CNBC) <https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864>
 - CNBC, "Exclusive CNBC Transcript: See how Trump 'made the deal' to reinstate Huang as Nvidia CEO", Nov 23, 2026 <https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang-reinstatement-cnbc-interview-transcript.html>
+- The Guardian (Julia Kollewe, Graeme Wearden), Trump made up to $15m on Nvidia stock after Huang's return (Nov 24, 2026) <https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market>
 
 ## What stops: the bank and the China channel
 

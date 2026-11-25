@@ -2,6 +2,10 @@
 
 Credits for the footage, photos and music in the video. The sources for its claims are on the [sources](sources.md) page.
 
+## Music
+
+- Music: "Local Forecast - Elevator" Kevin MacLeod (incompetech.com), licensed under CC BY 4.0; "Oriental Bossa" by John Bartmann (CC0, via Free Music Archive); "Red Sun in the Sky" (1992 disco cover). <https://incompetech.com/>
+
 ## News footage
 
 - AP Archive <https://www.youtube.com/watch?v=NhmAsCh8B88>
@@ -90,6 +94,7 @@ Credits for the footage, photos and music in the video. The sources for its clai
 - ksl <https://www.ksl.com/article/51489215/china-orders-meta-to-unwind-2b-purchase-of-ai-startup-manus>
 - Reuters via KSL (lead image is a Meta sign) <https://www.ksl.com/article/51489215/china-orders-meta-to-unwind-2b-purchase-of-ai-startup-manus>
 - NBC News (Reuters) <https://www.nbcnews.com/world/asia/chinese-ai-companies-distilled-claude-improve-models-anthropic-says-rcna260386>
+- The Guardian, 'Trump made up to $15m on Nvidia stock after Huang's return' (Nov 24, 2026); photo Evan Vucci/Reuters <https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market>
 - Reuters, via The Star <https://www.thestar.com.my/tech/tech-news/2023/09/13/alibaba-opens-ai-model-tongyi-qianwen-to-the-public>
 - Reuters photo (2024-06-02, released 2026-11-14), via Dotdotnews <https://english.dotdotnews.com/a/202611/15/AP6af9231de4b091a65a2fa5bf.html>
 - The Standard (Hong Kong), Reuters exclusive <https://www.thestandard.com.hk/innovation/article/347673/Nvidia-chips-pile-up-in-Hong-Kong-as-China-withholds-import-approval>
